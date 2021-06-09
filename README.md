@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 . I'll add more to this later.
+
+<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="50" height="50">
+
+
+
+
+
+
+
+
 
 <!--
 **n-v-o/n-v-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
