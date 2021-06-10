@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on anything! I love to help and learn!
 - 🤔 I’m looking for help with more web dev stuff. I'm thinking about diving into PHP. I know some basic HTML, CSS, and Javascript, but I spend most of that time Googling to figure things out :)
 - 💬 Ask me about Powershell, financing, gaming, music, home improvement, DIY projects, and anything else you can think of!
-- 📫 How to reach me: nvo-posh@pm.me
+- 📫 How to reach me: dev.nvo@pm.me
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm getting married this year and I bitcoin mine for fun
 
