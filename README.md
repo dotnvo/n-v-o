@@ -20,7 +20,7 @@
 - 💬 Ask me about Powershell, financing, gaming, music, home improvement, DIY projects, and anything else you can think of!
 - 📫 How to reach me: dev.nvo@pm.me
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm getting married this year and I bitcoin mine for fun
+- ⚡ Fun fact: I'm getting married this year and I mine &#8383;
 
 
 <!--
