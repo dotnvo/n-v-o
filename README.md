@@ -23,11 +23,9 @@
 - ⚡ Fun fact: I'm getting married this year and I bitcoin mine for fun
 
 
-
-
-
 <!--
-Comments
-
-
+https://github.com/antonkomarev/github-profile-views-counter
+https://yhype.me/ little counter microservice
 -->
+
+![](https://komarev.com/ghpvc/?username=n-v-o&color=green&style=plastic&label=PROFILE+VIEWS)
